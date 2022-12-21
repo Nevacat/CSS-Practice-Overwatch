@@ -47,6 +47,7 @@ body{
   transform: skewX(14deg) translateX(-16px);
 }
 
+
 .container .heros .hero:nth-child(1) .image{background-image: url(../images/hero1.png);}
 .container .heros .hero:nth-child(2) .image{background-image: url(../images/hero2.png);}
 .container .heros .hero:nth-child(3) .image{background-image: url(../images/hero3.png);}
@@ -79,3 +80,14 @@ body{
 .container .heros .hero:nth-child(30) .image{background-image: url(../images/hero30.png);}
 .container .heros .hero:nth-child(31) .image{background-image: url(../images/hero31.png);}
 .container .heros .hero:nth-child(32) .image{background-image: url(../images/hero32.png);}
+
+.container .logo{
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.container .logo img{
+  width: 100%;
+}
+
