@@ -7,7 +7,16 @@ body{
 }
 
 .container{
-  padding: 50px 0; 
+  padding-bottom: 50px; 
+}
+
+.container .main-logo{
+  width: 100px;
+  margin: 10px 0 50px 10px; 
+}
+
+.container .main-logo img{
+  width: 100%;
 }
 
 .container .heros{
